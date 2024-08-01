@@ -1,1 +1,0 @@
-directory for a React application
