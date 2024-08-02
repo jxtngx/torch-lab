@@ -2,7 +2,7 @@
 
 ## Overview
 
-Torch Lab is a template for artificial intelligence and machine learning projects using the PyTorch ecosystem.
+Torch Lab is a template for artificial intelligence and machine learning projects using the PyTorch ecosystem
 
 ## Project Structure
 
