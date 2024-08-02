@@ -2,7 +2,7 @@
 
 ## Overview
 
-Torch Lab is a hackable template for artificial intelligence and machine learning projects.
+Torch Lab is a template for artificial intelligence and machine learning projects.
 
 ## Project Structure
 
