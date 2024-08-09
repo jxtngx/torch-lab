@@ -16,7 +16,7 @@ import torch
 import pytorch_lightning as pl
 
 
-class LabModule(pl.LightningModule):
+class LightningModel(pl.LightningModule):
     """a custom PyTorch Lightning LightningModule"""
 
     def __init__(self):
