@@ -11,31 +11,3 @@
 # WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 # See the License for the specific language governing permissions and
 # limitations under the License.
-
-import torch
-import pytorch_lightning as pl
-
-
-class LightningModel(pl.LightningModule):
-    """a custom PyTorch Lightning LightningModule"""
-
-    def __init__(self):
-        super().__init__()
-
-    def forward(self, x):
-        pass
-
-    def training_step(self, batch):
-        pass
-
-    def test_step(self, batch, *args):
-        pass
-
-    def validation_step(self, batch, *args):
-        pass
-
-    def predict_step(self, batch, batch_idx, dataloader_idx=0):
-        pass
-
-    def configure_optimizers(self):
-        pass

@@ -1,11 +1,14 @@
 torch
-pytorch_lightning
-torchmetrics
+pytorch-ignite
+torchtnt
+torcheval
+torchserve
+tensorrt
 huggingface_hub
 transformers
+accelerate
 datasets
 safetensors
-ray[data, train, tune, serve]
 wandb
 typer
 plotly
