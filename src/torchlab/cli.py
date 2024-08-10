@@ -36,7 +36,7 @@ trainer_app = typer.Typer()
 app.add_typer(trainer_app, name="trainer")
 # TUNER
 tune_app = typer.Typer()
-app.add_typer(tune_app, name="tune")
+app.add_typer(tune_app, name="hpo")
 
 
 @app.callback()
