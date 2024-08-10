@@ -9,7 +9,7 @@ transformers
 accelerate
 datasets
 safetensors
-wandb
+mlflow
 typer
 plotly
 python-dotenv
