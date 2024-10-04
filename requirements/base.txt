@@ -1,15 +1,7 @@
 torch
-torchtnt
-torcheval
-torchserve
-tensorrt
 huggingface_hub
 transformers
-accelerate
-datasets
-safetensors
-mlflow
+wandb
 typer
-plotly
 python-dotenv
 omegaconf
