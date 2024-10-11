@@ -13,6 +13,5 @@
 # limitations under the License.
 
 from torchlab.models.diffuser import Diffuser
-from torchlab.models.lightning import CustomModel
 from torchlab.models.statespace import StateSpace
 from torchlab.models.transformer import Transformer
